@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>classification on Rahul Chellani</title>
+    <link>https://rahulchellani.github.io/Data_Science_Portfolio/tags/classification/</link>
+    <description>Recent content in classification on Rahul Chellani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Feb 2019 10:58:08 -0400</lastBuildDate><atom:link href="https://rahulchellani.github.io/Data_Science_Portfolio/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Breast Cancer Classification</title>
+      <link>https://rahulchellani.github.io/Data_Science_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 15 Feb 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://rahulchellani.github.io/Data_Science_Portfolio/post/project-1/</guid>
+      <description>Created a tool for predicting if the cancer diagnosis is benign or malignant based on several observations/features. Performed Feature scaling for better model building. Implemented and optimized Kernel SVM using K-Fold and Grid Search to reach best accuracy with best model having most suitable parameters. Achieved an accuracy score of 97.80%    Correlation between variables   Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

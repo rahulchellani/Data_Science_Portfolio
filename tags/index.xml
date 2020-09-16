@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Rahul Chellani</title>
+    <link>https://rahulchellani.github.io/Data_Science_Portfolio/tags/</link>
+    <description>Recent content in Tags on Rahul Chellani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Feb 2019 10:58:08 -0400</lastBuildDate><atom:link href="https://rahulchellani.github.io/Data_Science_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>classification</title>
+      <link>https://rahulchellani.github.io/Data_Science_Portfolio/tags/classification/</link>
+      <pubDate>Fri, 15 Feb 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://rahulchellani.github.io/Data_Science_Portfolio/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml</title>
+      <link>https://rahulchellani.github.io/Data_Science_Portfolio/tags/ml/</link>
+      <pubDate>Fri, 15 Feb 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://rahulchellani.github.io/Data_Science_Portfolio/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
